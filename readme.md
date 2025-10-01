@@ -1,1 +1,2 @@
 - Repo contains VHDL exercises and auxilary aritmetic unit
+- AAU is still unifinished

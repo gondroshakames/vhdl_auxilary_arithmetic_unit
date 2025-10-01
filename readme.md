@@ -1,1 +1,1 @@
-## hh
+- Repo contains VHDL exercises and auxilary aritmetic unit
